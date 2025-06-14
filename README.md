@@ -56,6 +56,16 @@ bash
 ┌──(root㉿kali)-[~/Desktop]
 └─# ls    
 '   katana '
+
+
+
+   __        __                
+  / /_____ _/ /____ ____  ___ _
+ /  '_/ _  / __/ _  / _ \/ _  /
+/_/\_\\_,_/\__/\_,_/_//_/\_,_/                                                   
+
+                projectdiscovery.io
+## problem solve by mollashaheb
                                                                                                                             
 ┌──(root㉿kali)-[~/Desktop]
 └─# katana -u https://www.yourwebsite.com
