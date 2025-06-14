@@ -5,7 +5,7 @@ I can tell you step by step
 
 Install katana to your Desktop 
 
-**create a path for go-lang 
+**create a path for go-lang**
 Copilot said: The error message katana: command not found
 
 The error message katana: command not found means that the Katana tool is not installed or its location is not in your system's PATH. Here’s how you can fix this issue on Kali Linux:
@@ -28,7 +28,7 @@ bash
 
 python3 katana.py -u https://example.com
 
-2. Install Katana (if not installed)
+**Install Katana (if not installed)**
 
 If Katana is not installed, you can install it using Go (if it’s the project from projectdiscovery/katana):
 bash
@@ -37,18 +37,18 @@ go install github.com/projectdiscovery/katana/cmd/katana@latest
 
 Then add Go’s bin directory to your PATH (if it’s not already):
 
-         #export PATH=$PATH:$(go env GOPATH)/bin#
+export PATH=$PATH:$(go env GOPATH)/bin
 
 
-**change katana path to desktop
+**change katana path to desktop**
 
 
-          3. Add Katana to PATH
+**Add Katana to PATH**
 
 If you want to run katana from any directory, add its location to your PATH. For example, if the executable is in ~/Desktop/katana:
 bash
 
-                           #export PATH=$PATH:~/Desktop/katana#
+export PATH=$PATH:~/Desktop/katana
 
 
 
