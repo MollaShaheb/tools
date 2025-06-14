@@ -41,7 +41,15 @@ Then add Go’s bin directory to your PATH (if it’s not already):
 
 
 **change katana path to desktop
-          # export PATH=$PATH:~/Desktop/katana  #
+
+
+          3. Add Katana to PATH
+
+If you want to run katana from any directory, add its location to your PATH. For example, if the executable is in ~/Desktop/katana:
+bash
+
+                           #export PATH=$PATH:~/Desktop/katana#
+
 
 
 ## Error 
