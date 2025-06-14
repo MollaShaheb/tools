@@ -48,7 +48,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 If you want to run katana from any directory, add its location to your PATH. For example, if the executable is in ~/Desktop/katana:
 bash
 
-export PATH=$PATH:~/Desktop/katana
+###export PATH=$PATH:~/Desktop/katana####
 
 
 
