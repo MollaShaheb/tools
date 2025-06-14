@@ -37,7 +37,7 @@ go install github.com/projectdiscovery/katana/cmd/katana@latest
 
 Then add Go’s bin directory to your PATH (if it’s not already):
 
-export PATH=$PATH:$(go env GOPATH)/bin
+### export PATH=$PATH:$(go env GOPATH)/bin
 
 
 **change katana path to desktop**
