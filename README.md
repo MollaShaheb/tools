@@ -59,12 +59,22 @@ bash
 
 
 
+
+
+
    __        __                
   / /_____ _/ /____ ____  ___ _
  /  '_/ _  / __/ _  / _ \/ _  /
 /_/\_\\_,_/\__/\_,_/_//_/\_,_/                                                   
 
-                projectdiscovery.io
+
+
+
+
+
+
+
+            
 ## problem solve by mollashaheb
                                                                                                                             
 ┌──(root㉿kali)-[~/Desktop]
